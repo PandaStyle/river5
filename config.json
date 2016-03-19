@@ -1,3 +1,5 @@
 {
-	"maxRiverItems": 300	
-	}
+	"maxRiverItems": 300,
+	"flMaintainCalendarStructure": true,
+	"ctMinutesBetwBuilds": 5
+}

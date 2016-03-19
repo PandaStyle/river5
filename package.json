@@ -1,23 +1,24 @@
 {
-	"name": "river5",
-	"description": "A river-of-news RSS aggregator in JavaScript running in Node.",
-	"author": "Dave Winer <dave@smallpicture.com>",
-	"version": "0.4.3",
-	"homepage": "https://groups.google.com/forum/?fromgroups#!forum/river5",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/scripting/river5"
-		},
-	"dependencies" : {
-		"request": "*",
-		"mime": "*",
-		"md5": "*",
-		"nodejs-websocket": "*",
-		"opmlparser": "*",
-		"feedparser": "*"
-		}, 
-	"license": "MIT",
-	"engines": {
-		"node": "0.10.*"
-		}
-	}
+  "name": "river5",
+  "description": "A river-of-news RSS aggregator in JavaScript running in Node.",
+  "author": "Dave Winer <dave@smallpicture.com>",
+  "version": "0.4.3",
+  "homepage": "https://groups.google.com/forum/?fromgroups#!forum/river5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scripting/river5"
+  },
+  "dependencies": {
+    "feedparser": "*",
+    "md5": "*",
+    "mime": "*",
+    "node-metainspector": "^1.2.0",
+    "nodejs-websocket": "*",
+    "opmlparser": "*",
+    "request": "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.*"
+  }
+}

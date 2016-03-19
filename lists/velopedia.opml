@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Velopedia</title>
+        <dateModified>Tue, 23 Feb 2016 23:41:40 GMT</dateModified>
+        <lastCursor>4</lastCursor>
+        <flEncrypted>false</flEncrypted>
+        <flCmsRender>false</flCmsRender>
+        <flCmsRenderInBackground>false</flCmsRenderInBackground>
+        <feed>rss.xml</feed>
+    </head>
+    <body>
+          <outline text="cyclingnews" type="rss" xmlUrl="http://feeds.feedburner.com/cyclingnews/news?format=xml"/>
+          <outline text="cyclingtips" created="Tue, 23 Feb 2016 23:39:43 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/cyclingtipsblog/TJog?format=xml"/>
+          <outline text="roadcc" created="Tue, 23 Feb 2016 23:39:44 GMT" type="rss" xmlUrl="http://road.cc/all/feed"/>
+          <outline text="roadcycling" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://feeds2.feedburner.com/roadcycling/ZlDv"/>
+          <outline text="roadbikeaction" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://roadbikeaction.com/feed"/>
+          <outline text="cyclingweekly" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://www.cyclingweekly.co.uk/feed"/>
+          <outline text="velonews" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://velonews.competitor.com/feed"/>
+          <outline text="bikeradar" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://www.bikeradar.com/rss"/>
+          <outline text="pezcyclingnews" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://www.pezcyclingnews.com/wp-content/themes/pezcyclingnews-two-column/rss2.php?cat=latest_news"/>
+          <outline text="theinnerring" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/inrng/inrng0"/>
+    </body>
+</opml>

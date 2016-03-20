@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/scripting/river5"
   },
+  "main": "river5.js",
   "dependencies": {
     "feedparser": "*",
     "md5": "*",

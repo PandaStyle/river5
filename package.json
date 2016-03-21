@@ -11,12 +11,16 @@
   "main": "river5.js",
   "dependencies": {
     "feedparser": "*",
+    "ineed": "^1.0.4",
     "md5": "*",
     "mime": "*",
+    "moment": "^2.12.0",
     "node-metainspector": "^1.2.0",
     "nodejs-websocket": "*",
+    "open-graph-scraper": "^2.0.4",
     "opmlparser": "*",
-    "request": "*"
+    "request": "*",
+    "x-ray": "^2.0.3"
   },
   "license": "MIT",
   "engines": {

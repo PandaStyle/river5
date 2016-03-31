@@ -18,7 +18,6 @@
         <outline text="pezcyclingnews" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://www.pezcyclingnews.com/wp-content/themes/pezcyclingnews-two-column/rss2.php?cat=latest_news"/>
         <outline text="roadcc" created="Tue, 23 Feb 2016 23:39:44 GMT" type="rss" xmlUrl="http://road.cc/all/feed"/>
         <outline text="roadbikeaction" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://roadbikeaction.com/feed"/>
-        <outline text="roadcycling" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://feeds2.feedburner.com/roadcycling/ZlDv"/>
         <outline text="velonews" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://velonews.competitor.com/feed"/>
         <outline text="theinnerring" created="Tue, 23 Feb 2016 23:40:14 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/inrng/inrng0"/>
     </body>

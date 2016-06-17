@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Technology</title>
+        <dateModified>Wed, 18 Nov 2015 21:43:20 GMT</dateModified>
+        <expansionState></expansionState>
+        <lastCursor>11</lastCursor>
+        <linkPublicUrl>https://dl.dropbox.com/s/7rx3j4fhmyikv6k/technology.opml?dl=0</linkPublicUrl>
+    </head>
+    <body>
+        <outline text="" type="rss" xmlUrl="http://construction.com/rss/construction.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:37:44 GMT" type="rss" xmlUrl="http://www.builderonline.com/design/technology/?rss=true"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:37:49 GMT" type="rss" xmlUrl="http://greensource.construction.com/rss/gs.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:37:50 GMT" type="rss" xmlUrl="http://archrecord.construction.com/rss/ar.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:37:50 GMT" type="rss" xmlUrl="http://archrecord.construction.com/rss/BTS.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:37:50 GMT" type="rss" xmlUrl="http://archrecord.construction.com/rss/hotm.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:39:25 GMT" type="rss" xmlUrl="http://archrecord.construction.com/rss/portfolio.xml"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:39:26 GMT" type="rss" xmlUrl="http://www.enr.com/rss/articles"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:39:26 GMT" type="rss" xmlUrl="http://www.builtr.io/insights/feed/"/>
+        <outline text="" created="Wed, 18 Nov 2015 21:39:26 GMT" type="rss" xmlUrl="http://feeds.feedburner.com/bdcnetwork/news"/>
+    </body>
+</opml>

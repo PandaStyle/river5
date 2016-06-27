@@ -3,5 +3,6 @@
 	"ctMinutesBetwBuilds": 15,
 	"httpPort": 1338,
 	"flHttpEnabled": true,
-	"flWebSocketEnabled": false
+	"flWebSocketEnabled": false,
+	"riversFolder": "/rivers/"
 }
